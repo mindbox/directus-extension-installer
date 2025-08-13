@@ -1,0 +1,12 @@
+/**/*
+!.git*
+!.git*/**/*
+!package*.json
+!tsconfig.json
+!/src
+!/src/**/*
+!/tests
+!/tests/**/*
+!*.md
+!.npmrc
+!jest.config.js
