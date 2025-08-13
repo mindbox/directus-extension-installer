@@ -10,3 +10,4 @@
 !*.md
 !.npmrc
 !jest.config.js
+!Dockerfile
